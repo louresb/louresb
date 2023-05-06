@@ -1,19 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hello+world!+I'm+louresb!)](https://git.io/typing-svg)
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<div align="center">
+<img width="750" alt="AB1C67DB-B000-4010-ACFA-6110FA0E6407" src="https://user-images.githubusercontent.com/103293696/236639431-4de7c917-3dca-45dc-b938-78fa0efb5943.png">
+</div>
 
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20world!%20My%20name%20is%20Bruno%20Loures;I%20am%20always%20learning%20new%20things!;Nice%20to%20meet%20you!&font=Avenir%20Code&center=true&width=440&height=45&color=0080FF&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
- ### Languages and Tools:
+I'm a technology enthusiast based in Rio de Janeiro, Brazil, with a degree in Economics from Universidade Federal Fluminense. I have a broad interest in creating things and solving problems with technology, whether it's building web applications, designing user interfaces, or learning new programming languages.
+
+In 2022, I was introduced to [DIO](https://www.dio.me/), a platform that connects people and companies, opening up amazing opportunities for learning and growth. It was there that I began my journey into web development, writing my first lines of code and building my first webpages. Since then, I have been dedicated to learning and improving my skills. To achieve this, I have been studying at [Balta.io](https://balta.io/) and [Microsoft Learn](https://learn.microsoft.com/), where I began to feel more confident about my .Net skills.
+
+In addition to my technical expertise, here are a few facts about me that might interest you:
+
+- I spent a year in Finland as part of a college exchange program, which was a life-changing experience.
+- I worked as a SAP analyst for two years and developed a keen interest in writing documentation.
+- When my notebook broke, I took it as an opportunity to learn how to fix and upgrade an old desktop PC.
+- I believe in the power of different accounts to look up different subjects, which I think is a good way to control the algorithm.
+- I love using language-learning apps to improve my skills in foreign languages.
+<br />
+<br />
+
+<div align="center">
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+</div>
+
+<div align="center">
 
   ![Snake animation](https://github.com/louresb/louresb/blob/output/github-contribution-grid-snake.svg)
 
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/louresb/)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=louresb&theme=github_dark) 
+<div align="center">
+  <a href="https://github.com/louresb">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=louresb&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louresb&layout=compact&langs_count=7&theme=transparent"/>
+  </a>
+</div>
