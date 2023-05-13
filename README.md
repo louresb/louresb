@@ -4,7 +4,6 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20world!%20My%20name%20is%20Bruno%20Loures;I%20am%20always%20learning%20new%20things!;Nice%20to%20meet%20you!&font=Avenir%20Code&center=true&width=440&height=45&color=0080FF&vCenter=true&pause=1000&size=19" /></a>
 </p>
 
@@ -49,3 +48,15 @@ In addition to my technical expertise, here are a few facts about me that might 
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=louresb&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louresb&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
+
+<br />
+<details>
+  <summary>Credits</summary>
+   Typing SVG - <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
+    <br /> 
+   Badges - <a href="https://shields.io/">shields.io</a>
+    <br />  
+   Snake animation - <a href="https://github.com/Platane/snk">Platane</a>
+    <br /> 
+   GitHub Stats - <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+</details>
