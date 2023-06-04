@@ -1,15 +1,15 @@
 <div align="center">
-<img width="750" alt="AB1C67DB-B000-4010-ACFA-6110FA0E6407" src="https://user-images.githubusercontent.com/103293696/236639431-4de7c917-3dca-45dc-b938-78fa0efb5943.png">
+<img style="width: 100%; height: auto;" alt="Banner" src="https://github.com/louresb/louresb/assets/103293696/1868ea6b-e68c-4054-a18a-6559d1e0ad36">
 </div>
-
+<br />
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20world!%20My%20name%20is%20Bruno%20Loures;I%20am%20always%20learning%20new%20things!;Nice%20to%20meet%20you!&font=Avenir%20Code&center=true&width=440&height=45&color=0080FF&vCenter=true&pause=1000&size=19" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20world!%20My%20name%20is%20Bruno%20Loures.;I%20am%20always%20learning%20new%20things!;Welcome%20to%20my%20GitHub%20profile!&font=OpenSans%20Code&center=true&width=440&height=45&color=0080FF&vCenter=true&pause=1000&size=19" /></a>
 </p>
 
 I'm a technology enthusiast based in Rio de Janeiro, Brazil, with a degree in Economics from Universidade Federal Fluminense. I have a broad interest in creating things and solving problems with technology, whether it's building web applications, designing user interfaces, or learning new programming languages.
 
-In 2022, I was introduced to [DIO](https://www.dio.me/), a platform that connects people and companies, opening up amazing opportunities for learning and growth. It was there that I began my journey into web development, writing my first lines of code and building my first webpages. Since then, I have been dedicated to learning and improving my skills. To achieve this, I have been studying at [Balta.io](https://balta.io/) and [Microsoft Learn](https://learn.microsoft.com/), where I began to feel more confident about my .Net skills.
+In 2022, I was introduced to [DIO](https://www.dio.me/), a platform that connects people and companies, opening up amazing opportunities for learning and growth. It was there that I began my journey into web development, writing my first lines of code and building my first webpages. Since then, I have been dedicated to learning and improving my skills. To achieve this, I have been studying at [Balta.io](https://balta.io/) and [Microsoft Learn](https://learn.microsoft.com/), where I began to feel more confident about my .NET skills.
 
 In addition to my technical expertise, here are a few facts about me that might interest you:
 
@@ -52,6 +52,8 @@ In addition to my technical expertise, here are a few facts about me that might 
 <br />
 <details>
   <summary>Credits</summary>
+   Banner image - <a href="https://dotnet.microsoft.com/static/images/refresh/home-hero.png">.NET official website</a>
+    <br />
    Typing SVG - <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a>
     <br /> 
    Badges - <a href="https://shields.io/">shields.io</a>
