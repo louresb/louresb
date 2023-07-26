@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width: 100%; height: auto;" alt="Banner" src="https://github.com/louresb/louresb/assets/103293696/e327873d-023e-4b7e-baee-5718ad0de439">
+<img style="width: 100%; height: auto;" alt="Banner" src="https://github.com/louresb/louresb/assets/103293696/125c1642-ad8c-4e96-a15a-9276c991b299">
 </div>
 <br />
 <p align="center">
