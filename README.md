@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width: 100%; height: auto;" alt="Banner" src="https://github.com/louresb/louresb/assets/103293696/125c1642-ad8c-4e96-a15a-9276c991b299">
+<img style="width: 100%; height: auto;" alt="Banner" src="https://github.com/louresb/louresb/assets/103293696/b9fc1d26-235e-4e13-b39c-5292214ef819">
 </div>
 <br />
 <p align="center">
@@ -28,6 +28,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
