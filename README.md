@@ -1,7 +1,3 @@
-<div align="center">
-<img style="width: 100%; height: auto;" alt="Banner" src="https://github.com/louresb/louresb/assets/103293696/b9fc1d26-235e-4e13-b39c-5292214ef819">
-</div>
-<br />
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20world!%20My%20name%20is%20Bruno%20Loures.;I%20am%20always%20learning%20new%20things!;Welcome%20to%20my%20GitHub%20profile!&font=OpenSans%20Code&center=true&width=440&height=45&color=0080FF&vCenter=true&pause=1000&size=19" /></a>
