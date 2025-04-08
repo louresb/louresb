@@ -38,7 +38,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 <div align="center">
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/louresb/louresb/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/louresb/louresb/output/github-snake-dark.svg?v=2">
   <img alt="Commit Snake Game!" src="https://raw.githubusercontent.com/louresb/louresb/output/github-snake-light.svg#gh-light-mode-only">
  </picture>
 
