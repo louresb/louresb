@@ -7,6 +7,8 @@ I'm a technology enthusiast based in Rio de Janeiro, Brazil, with a degree in Ec
 
 In 2022, I was introduced to [DIO](https://www.dio.me/), a platform that connects people and companies, opening up amazing opportunities for learning and growth. It was there that I began my journey into web development, writing my first lines of code and building my first webpages. Since then, I have been dedicated to learning and improving my skills. To achieve this, I have been studying at [Balta.io](https://balta.io/) and [Microsoft Learn](https://learn.microsoft.com/), where I began to feel more confident about my .NET skills.
 
+More recently, I’ve worked as a .NET developer on projects including a project management system (SGGP) used by Hospital Albert Einstein, developed with .NET, MySQL, and Angular. I was responsible for building the backend, which included features like Microsoft Bookings integration, PDF generation, dashboards, user and area management, and internal chat. I also contributed to the evolution of similar solutions with a multi-tenant architecture. Throughout these experiences, the team followed Scrum methodology and used Azure DevOps for collaboration.
+
 In addition to my technical expertise, here are a few facts about me that might interest you:
 
 - I spent a year in Finland as part of a college exchange program, which was a life-changing experience.
@@ -21,6 +23,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,6 +33,8 @@ In addition to my technical expertise, here are a few facts about me that might 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
