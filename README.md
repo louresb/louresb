@@ -51,7 +51,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 
 <div align="center">
   <a href="https://github.com/louresb">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=louresb&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louresb&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=louresb&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louresb&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
