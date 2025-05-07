@@ -14,7 +14,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 - When my notebook broke, I took it as an opportunity to learn how to fix and upgrade an old desktop PC.
 - I believe in the power of different accounts to look up different subjects, which I think is a good way to control the algorithm.
 - I love using language-learning apps to improve my skills in foreign languages.
-- I hold a degree in Economics 
+- I hold a degree in Economics. 
 <br />
 <br />
 
