@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20world!%20My%20name%20is%20Bruno%20Loures.;I%20am%20always%20learning%20new%20things!;Welcome%20to%20my%20GitHub%20profile!&font=OpenSans%20Code&center=true&width=440&height=45&color=0080FF&vCenter=true&pause=1000&size=19" /></a>
 </p>
 
-I'm a technology enthusiast based in Rio de Janeiro, Brazil, with a degree in Economics from Universidade Federal Fluminense. I have a broad interest in creating things and solving problems with technology, whether it's building web applications, designing user interfaces, or learning new programming languages.
-
-In 2022, I was introduced to [DIO](https://www.dio.me/), a platform that connects people and companies, opening up amazing opportunities for learning and growth. It was there that I began my journey into web development, writing my first lines of code and building my first webpages. Since then, I have been dedicated to learning and improving my skills. To achieve this, I have been studying at [Balta.io](https://balta.io/) and [Microsoft Learn](https://learn.microsoft.com/), where I began to feel more confident about my .NET skills.
+I'm a technology enthusiast based in Rio de Janeiro, Brazil, with a broad interest in creating things and solving problems with technology, whether it's building web applications, designing user interfaces or learning new programming languages.
 
 More recently, I’ve worked as a .NET developer on projects including a project management system (SGGP) used by Hospital Albert Einstein, developed with .NET, MySQL, and Angular. I was responsible for building the backend, which included features like Microsoft Bookings integration, PDF generation, dashboards, user and area management, and internal chat. I also contributed to the evolution of similar solutions with a multi-tenant architecture. Throughout these experiences, the team followed Scrum methodology and used Azure DevOps for collaboration.
 
@@ -16,6 +14,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 - When my notebook broke, I took it as an opportunity to learn how to fix and upgrade an old desktop PC.
 - I believe in the power of different accounts to look up different subjects, which I think is a good way to control the algorithm.
 - I love using language-learning apps to improve my skills in foreign languages.
+- I hold a degree in Economics 
 <br />
 <br />
 
@@ -36,6 +35,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
