@@ -5,16 +5,18 @@
 
 I'm a technology enthusiast based in Rio de Janeiro, Brazil, with a broad interest in creating things and solving problems with technology, whether it's building web applications, designing user interfaces or learning new programming languages.
 
-More recently, I’ve worked as a .NET developer on projects including a project management system (SGGP) used by Hospital Albert Einstein, developed with .NET, MySQL, and Angular. I was responsible for building the backend, which included features like Microsoft Bookings integration, PDF generation, dashboards, user and area management, and internal chat. I also contributed to the evolution of similar solutions with a multi-tenant architecture. Throughout these experiences, the team followed Scrum methodology and used Azure DevOps for collaboration.
+Currently, I work as a .NET developer contributing to the technical evolution of large-scale systems in the industrial sector. My focus is on backend development, integration, and stability, using technologies such as .NET Framework, WCF, and NGINX. I’m also deeply interested in modern .NET technologies like ASP.NET Core and Blazor.
+
+Previously, I contributed to corporate systems such as the Project Governance Management System (SGGP) used by Hospital Albert Einstein, developing backend features including Microsoft Bookings integration, PDF generation, dashboards, user management, and internal chat. These projects followed agile practices (Scrum) and leveraged Azure DevOps for collaboration.
 
 In addition to my technical expertise, here are a few facts about me that might interest you:
 
-- I spent a year in Finland as part of a college exchange program, which was a life-changing experience.
+- I took part in an academic exchange program in Finland, an experience that broadened my worldview and adaptability.  
 - I worked as a SAP analyst for two years and developed a keen interest in writing documentation.
 - When my notebook broke, I took it as an opportunity to learn how to fix and upgrade an old desktop PC.
 - I believe in the power of different accounts to look up different subjects, which I think is a good way to control the algorithm.
 - I love using language-learning apps to improve my skills in foreign languages.
-- I hold a degree in Economics. 
+- I hold a degree in Economics.
 <br />
 <br />
 
