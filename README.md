@@ -29,7 +29,6 @@ In addition to my technical expertise, here are a few facts about me that might 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,7 +36,6 @@ In addition to my technical expertise, here are a few facts about me that might 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<br />
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%230078B3.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -57,7 +55,7 @@ In addition to my technical expertise, here are a few facts about me that might 
 
 <div align="center">
   <a href="https://github.com/louresb">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=louresb&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louresb&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="140em" src="https://github-readme-stats-tau-woad.vercel.app/api?username=louresb&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats"/><img height="140em" src="https://github-readme-stats-tau-woad.vercel.app/api/top-langs/?username=louresb&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
